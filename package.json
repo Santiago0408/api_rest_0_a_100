@@ -1,0 +1,29 @@
+{
+  "name": "academic-api",
+  "version": "1.0.0",
+  "description": "academic api for estudents and teachers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "academic",
+    "rest",
+    "api",
+    "techer",
+    "students",
+    "course"
+  ],
+  "author": "Santiago silva",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.2",
+    "crypto-js": "^4.0.0",
+    "express": "^4.17.1",
+    "i": "^0.3.6",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.7",
+    "mongoose-unique-validator": "^2.0.3",
+    "npm": "^7.5.4"
+  }
+}
